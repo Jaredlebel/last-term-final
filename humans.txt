@@ -1,0 +1,18 @@
+/* Te=EAM */
+
+Designer & Developer: Jared Lebel
+Site: http://funkyllama.ca
+Twitter: @jaredlebel
+Location: Ottawa, Canada
+
+Movember logo and links belong to the fine people at Movember.ca
+
+
+/* THANKS */
+
+Thanks to the awesome people that make the interwebz.
+
+/* SITE */
+Standars : HTML5, CSS3
+Components: Modernizer, Jquery, etc...
+Software: Adobe, Livereload,
